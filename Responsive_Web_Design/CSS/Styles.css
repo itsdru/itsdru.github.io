@@ -112,10 +112,8 @@ tr {
 @media (min-width: 768px) {
 
     header {
-        header {
             text-align: center;
             font-size: 60px;
-        }
     }
     nav li {
         display: inline-block;
@@ -140,7 +138,7 @@ tr {
     section, aside {
         padding: 10px;
         margin: 10px;
-        border: 2px auto purple;
+        border: 2px solid purple;
         border-radius: 10px;
     }
 
